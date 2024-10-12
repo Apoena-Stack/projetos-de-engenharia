@@ -92,6 +92,6 @@ Aqui indicamos conteúdos internos da Apoena Stack e externos que podem auxiliar
 # Agenda do Projeto
 | Data do Encontro | Tema |
 | ----------------- | ------ |
-| 15/10/2024 | Passo #1 - Discussão de Escopo e Output de Preparação |
-| 29/10/2024 | Passo #2 - Exibição de Lógica até onde foi desenvolvido |
-| 05/11/2024 | Passo #3 - Exibição Final do Projeto |
+| 17/10/2024 20h | Passo #1 - Discussão de Escopo e Output de Preparação |
+| 29/10/2024 20h | Passo #2 - Exibição de Lógica até onde foi desenvolvido |
+| 05/11/2024 20h | Passo #3 - Exibição Final do Projeto |
